@@ -21,3 +21,7 @@ O programador que escreve códigos limpos é um artista.
 Use nomes que revelem seu propósito:
 
 O nome de uma variável, função ou classe deve responder a todas as grandes questões, ou melhor, ao ler o nome dos mesmos não deve ser levantadas questões pois deve estar muito claro do que se trata. Não deve ter um comentário ao lado que revele o propósito.
+
+
+
+O resultado de bons nomes é um código fluido que se identifica fácil oque está acontecendo quase como uma história.
